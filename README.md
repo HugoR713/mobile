@@ -1,1 +1,4 @@
 # mobile
+
+Teste de conectividade.
+...
